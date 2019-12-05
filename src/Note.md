@@ -40,7 +40,7 @@ note.vibratoType = 0  -- 颤音类型 0：没有颤音 1-4：Normal 5-8：Extrem
 然后，可以通过VSGetNextNote()或VSGetNextNoteEx()，获取到游标之后的音符。稍后，通过反复调用VSGetNextNote()或VSGetNextNoteEx()，获取到序列的所以音符。
 
 <p align="center" class="logo-img">
-    <img src="/static/img/note.png">
+    <img src="static/img/note.png">
 </p>
 
 ## 如何获取用户选定的音符
