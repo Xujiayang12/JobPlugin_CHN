@@ -2,4 +2,4 @@
     <img src="static/img/logo.png" alt="RSSHub" width="200">
 </p>
 
-> 本文档由白糖の正义铃翻译总结
+> 本文档由白糖の正义铃总结

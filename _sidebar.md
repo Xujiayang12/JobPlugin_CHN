@@ -2,3 +2,4 @@
 * [介绍](src/Introduce.md)
 * [开始](src/Start.md)
 * [音符操作](src/Note.md)
+* [参数操作](src/Control.md)
