@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51d3fa21-d170-40a1-a5cc-d7ac4fa92712" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Control.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_coverpage.md" beforeDir="false" afterPath="$PROJECT_DIR$/_coverpage.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/About.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/About.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Control.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Control.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +53,10 @@
       <workItem from="1575557108806" duration="12351000" />
       <workItem from="1575570571894" duration="143000" />
       <workItem from="1575595937590" duration="3818000" />
+      <workItem from="1575599825424" duration="96000" />
+      <workItem from="1575639713094" duration="19000" />
+      <workItem from="1575811865502" duration="2030000" />
+      <workItem from="1575813996932" duration="506000" />
     </task>
     <servers />
   </component>

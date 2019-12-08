@@ -5,6 +5,7 @@
 
 [BiliBili](https://space.bilibili.com/180668218)
 [点击阅读](src/Introduce.md)
+[英文版](https://jobplugineng.now.sh/)
 
 <!-- 背景图片 -->
 
