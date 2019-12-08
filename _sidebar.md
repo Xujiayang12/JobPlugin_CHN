@@ -3,5 +3,5 @@
 * [开始](src/Start.md)
 * [音符操作](src/Note.md)
 * [参数操作](src/Control.md)
-* [所有API](src/Control.md)
+* [所有API](src/List.md)
 * [英文完整版](https://jobplugineng.now.sh/)
